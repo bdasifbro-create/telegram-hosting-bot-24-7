@@ -3,9 +3,20 @@
 ## Features
 - Upload Python files
 - Run multiple files
-- Auto restart system
-- 24/7 hosting (Render / Railway)
+- Auto restart
+- Delete files
+- 24/7 hosting (Render)
 
-## Setup
+## Commands
+/start - Start bot  
+run filename.py - Run file  
+stop filename.py - Stop  
+files - Show files  
+del filename.py - Delete  
 
-1. Clone repo: telegram-hosting-bot-24-7
+## Deploy
+1. Upload to GitHub  
+2. Connect to Render  
+3. Add ENV:
+   TOKEN=your_token
+   OWNER_ID=your_id
