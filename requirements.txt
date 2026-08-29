@@ -1,5 +1,4 @@
 pyTelegramBotAPI
 flask
-requests
 psutil
-yt-dlp
+requests
