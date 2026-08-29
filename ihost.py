@@ -58,9 +58,9 @@ TOKEN = os.getenv("TOKEN")
 OWNER_ID = 8637671220 #yha tumhra chat id dalo
 ADMIN_ID = 7206723358 #yeha koi admin ya tumhara chat id dalo
 YOUR_USERNAME = '@bdasifbro' #yeha tumhra username dala
-UPDATE_CHANNEL = 'https://t.me/new_bangla_mod' #yeha chnl link dalo''
+UPDATE_CHANNEL = 'https://t.me/BDTECx' #yeha chnl link dalo''
 FORCE_JOIN_CHANNELS = {
-"@new_bangla_mod":"𝐉𝐎𝐈𝐍",
+"@BDTECx":"𝐉𝐎𝐈𝐍",
 
 }
 
